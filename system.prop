@@ -1,0 +1,3 @@
+ro.build.fingerprint=motorola/falcon_reteu/falcon_umts:5.1/LPB23.13-56/56:user/release-keys 
+ro.product.device=falcon
+ro.product.model=Moto G
